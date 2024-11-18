@@ -21,10 +21,59 @@ header {
 
 /* Testi */
 
-#Firma {
+#Firma, #Data {
     color: grey;
 }
 
 #Data {
     font-size: 9px;
+}
+
+#Container-1 {
+    margin: 10px;
+}
+
+#Container-2 {
+    margin: 0px;
+}
+
+#Autore {
+    color: aqua;
+}
+
+p {
+    margin: 10px;
+}
+
+.Didascalia {
+    font-size: 10px;
+}
+
+/* Tabella */
+
+table td       {
+    
+}
+
+#Row1  {
+    background-color: aqua; 
+    color:white; 
+    font-weight: bold;
+}
+
+.Row2 {
+    background-color: rgba(127, 255, 212, 0.438);
+}
+}
+table tr#ROW3  {
+    background-color:blue; color:white;
+}
+table td#CELL9 {
+    border:inset 4px red; background-color:navy;
+}
+
+/* Immagini */
+
+.Foto {
+    margin: 10px;
 }
