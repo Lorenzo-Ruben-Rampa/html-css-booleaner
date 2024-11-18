@@ -12,7 +12,7 @@
 }
 
 header {
-    height:175px;  
+    height:175px;
 }
 
 #logo-Booleaner {
@@ -21,12 +21,12 @@ header {
 
 /* Testi */
 
-#Firma, #Data {
+.Firma, #Data {
     color: grey;
 }
 
 #Data {
-    font-size: 9px;
+    font-size: 12px;
 }
 
 #Container-1 {
@@ -47,13 +47,14 @@ p {
 
 .Didascalia {
     font-size: 10px;
+    margin-left: 10px;
+}
+
+.Evidenziatore {
+    background-color:yellow;
 }
 
 /* Tabella */
-
-table td       {
-    
-}
 
 #Row1  {
     background-color: aqua; 
@@ -64,16 +65,11 @@ table td       {
 .Row2 {
     background-color: rgba(127, 255, 212, 0.438);
 }
-}
-table tr#ROW3  {
-    background-color:blue; color:white;
-}
-table td#CELL9 {
-    border:inset 4px red; background-color:navy;
-}
+
 
 /* Immagini */
 
 .Foto {
-    margin: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
 }
