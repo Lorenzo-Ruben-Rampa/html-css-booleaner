@@ -5,6 +5,10 @@
 
 /* header sfondo */
 
+#Container-1 {
+    margin-left: 10px;
+}
+
 #background {
     background-color:rgba(0, 110, 255, 0.562);
     height: 100%;
@@ -13,7 +17,6 @@
 
 header {
     height:175px;
-    width: 100%;
 }
 
 #logo-Booleaner {
@@ -32,10 +35,6 @@ header {
 
 #Data {
     font-size: 12px;
-}
-
-#Container-1 {
-    margin: 10px;
 }
 
 #Container-2 {
