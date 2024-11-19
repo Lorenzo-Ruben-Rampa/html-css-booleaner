@@ -9,18 +9,16 @@
     margin-left: 10px;
 }
 
-#background {
-    background-color:rgba(0, 110, 255, 0.562);
-    height: 100%;
-    background-image: url("../img/pattern.png");
-}
-
 header {
     height:175px;
+    background-color:rgba(0, 110, 255, 0.562);
+    background-image: url("../img/pattern.png");
 }
 
 #logo-Booleaner {
    height: 50px;
+   margin-top: 63px;
+   margin-left: 20px;
 }
 
 /* Testi */
@@ -76,6 +74,14 @@ ul {
 
 .Row2 {
     background-color: rgba(127, 255, 212, 0.438);
+}
+
+.Colonna1 {
+    width: 25%;
+}
+
+.Colonna3 {
+    width: 50%;
 }
 
 
